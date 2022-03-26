@@ -1,2 +1,2 @@
 # elara-net
-Neural network for spacetime metric prediction, implemented in PyTorch
+Neural network for spacetime metric prediction, implemented with Elara ML

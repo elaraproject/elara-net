@@ -6,8 +6,8 @@ Neural network for spacetime metric optimization, implemented in TensorFlow.
 
 Ensure you have SciPy, NumPy, TensorFlow, and Plotly installed. The Jupyter notebooks are organized as follows:
 
-- To generate the dataset, use the [generator notebook]("./ElaraNet Generator.ipynb")
-- To train/use the NN, use the [model notebook]("./ElaraNet Model.ipynb")
+- To generate the dataset, use the [generator notebook](https://github.com/elaraproject/elara-net/blob/main/ElaraNet%20Generator.ipynb)
+- To train/use the NN, use the [model notebook](https://github.com/elaraproject/elara-net/blob/main/ElaraNet%20Model.ipynb)
 
 ## Pre-generated data & models
 

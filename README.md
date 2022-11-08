@@ -1,13 +1,13 @@
 # ElaraNet
 
-Neural network for spacetime metric optimization, implemented with ~~Elara ML~~ TensorFlow (for now)
+Neural network for spacetime metric optimization, implemented in TensorFlow.
 
 ## Usage
 
 Ensure you have SciPy, NumPy, TensorFlow, and Plotly installed. The Jupyter notebooks are organized as follows:
 
-- To generate the dataset, use the [generator notebook](./ElaraNet Generator.ipynb)
-- To train/use the NN, use the [model notebook](./ElaraNet Model.ipynb)
+- To generate the dataset, use the [generator notebook]("./ElaraNet Generator.ipynb")
+- To train/use the NN, use the [model notebook]("./ElaraNet Model.ipynb")
 
 ## Pre-generated data & models
 

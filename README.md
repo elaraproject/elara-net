@@ -1,6 +1,6 @@
 # ElaraNet
 
-Neural network for spacetime metric optimization, implemented in TensorFlow.
+Neural network for spacetime metric optimization, implemented in TensorFlow. Paper available [here](https://github.com/elaraproject/elara-publications/raw/main/dist/paper-1.pdf).
 
 ## Usage
 

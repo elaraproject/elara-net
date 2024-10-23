@@ -1,4 +1,6 @@
-# ElaraNet
+# ElaraNet (Legacy)
+
+> **Important notice:** This is legacy research which is not up to date and has now been **archived**.
 
 Neural network for spacetime metric optimization, implemented in TensorFlow. Paper available [here](https://github.com/elaraproject/elara-publications/raw/main/dist/paper-1.pdf).
 
